@@ -150,7 +150,7 @@ void TriangleApp::OnLButtonUp() {
 int WINAPI wWinMain(HINSTANCE hInstance, HINSTANCE, PWSTR, int nCmdShow) {
     TriangleApp win;
 
-    if (!win.Create(("Circle"), WS_OVERLAPPEDWINDOW)) {
+    if (!win.Create(("TriangleApp"), WS_OVERLAPPEDWINDOW)) {
         return 0;
     }
 
