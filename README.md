@@ -1,4 +1,5 @@
 # WindowWithMovingTriangle
 Direct2D experiment
 # Compilation
-compilation tested ONLY on VS compiler!
+* Compilation tested ONLY on VS compiler! Works on CLion. 
+
